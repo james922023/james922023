@@ -1,5 +1,10 @@
 ## Hi there 👋
+Im James, a programmer and recent grad!
 
+Here are my projects that I've worked on!
+
+- [Django-React-Personal-Project](https://github.com/james922023/LeaguePicker-PythonWebsite)
+- [Covert-wirless-comm-Senior-Project](https://github.com/james922023/Covert-Wireless-Communication-With-Software-Defined-Radios)
 <!--
 **james922023/james922023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
