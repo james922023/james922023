@@ -2,7 +2,7 @@
 Im James, a programmer and recent grad!
 
 Here are my projects that I've worked on!(in order from most recent to oldest)
-
+- [JavaCardGame](https://github.com/james922023/JavaCardGame)
 - [Django-React-Personal-Project](https://github.com/james922023/LeaguePicker-PythonWebsite)
 - [Covert-wirless-comm-Senior-Project](https://github.com/james922023/Covert-Wireless-Communication-With-Software-Defined-Radios)
 - [MobileAppIOSSchoolProject](https://github.com/james922023/MobileAppIOS)
