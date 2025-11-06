@@ -47,7 +47,7 @@ I thrive in collaborative environments where I can solve problems, learn new too
 Developed as part of my **senior design capstone**, this project focuses on **secure, covert data transmission** using **software-defined radios (SDRs)**.  
 It explores modulation schemes, real-time signal processing, and stealth communication across radio channels.
 
-🧰 *Technologies:* GNU Radio, Python, C++  
+🧰 *Technologies:* PLUTO SDR, Python, MATLAB
 📄 *Focus:* Secure wireless communication, real-time systems, signal encoding & decoding  
 
 ---
