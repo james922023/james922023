@@ -3,7 +3,7 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 I'm a **Computer Science graduate** from **Florida Atlantic University** with minors in **Cybersecurity** and **Artificial Intelligence** with experience across the full software development life cycle — from design and testing to deployment.  
 
 I thrive in collaborative environments where I can solve problems, learn new tools, and build solutions.
