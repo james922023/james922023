@@ -12,7 +12,7 @@ I thrive in collaborative environments where I can solve problems, learn new too
 
 ### 💼 Experience
 
-#### 💡 **Student Software Engineer — FAU Senior Design Showcase**  
+#### 💡 **Student Software Engineer — FAU Center for Connected Autonomy and Artificial Intelligence**  
 *May 2024 – Dec 2024 | Boca Raton, FL*  
 - Collaborated in an **Agile team** to develop a **covert wireless communication system** using **Software Defined Radios (SDRs)**.  
 - Debugged and enhanced legacy code for **real-time transmission reliability**.  
