@@ -14,15 +14,16 @@ I thrive in collaborative environments where I can solve problems, learn new too
 
 #### 💡 **Student Software Engineer — FAU Center for Connected Autonomy and Artificial Intelligence**  
 *May 2024 – Dec 2024 | Boca Raton, FL*  
--	Collaborated and lead an Agile Engineering team to design and implement a secure wireless communication system using software defined radios. Applied the full SDLC and project management fundamentals.
--	Programmed solution in Python and MATLAB, used Git for cross-collaboration and MS Teams for project and issue tracking, successfully utilizing learned skills in a real-world project
--	Succeeded in finding a solution to the problem statement, by using Combination of Least significant bit steganography, Direct Sequence Spread Spectrum and Shared Key Encryption
--	Documented existing processes, tests, and behavior, generating weekly progress reports and technical findings for team members and our sponsor
+(Through two semesters)
+- Created python software solution for sponsor delivering solution with documentation by following software development lifecycle from requirements gathering through deployment.
+- Showcased excellent team communication having team be consistent in project direction by scheduling weekly sprint meetings to discuss sprint goals and outcomes.
 
 
 #### 🧩 **Software Intern — 4E Consulting Group LLC**  
 *May 2023 – Aug 2023 | The Woodlands, TX*  
-- Collaborated with Automation & IIot Manager developing a SCADA alert system and GUI for industrial workflows  
+- Successfully trained on the job obtaining Inductive University credential by completing 80 hours of training in Python/SQL scripting and Ignition Software.
+- Recreated legacy GUI meeting Automation and IIot Manager requirements by replicating screenshots into functioning pages in Ignition.
+- Automated system notifications meeting 100% of functional requirements by configuring SMTP server settings within Ignition gateway and scripting alarm pipelines for email alerts. 
 
 ---
 
